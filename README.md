@@ -96,7 +96,7 @@ Microsoft Excel - Advanced Excel Formulas & Functions by Maven Analytics (UDEMY)
 
 ## I. Dynamic Arrays
 
-[Notes Here] (https://github.com/Sukanya807/Advanced_Excel_for_Analysts/blob/main/Excel_Formulas_%26_Functions.pdf)
+[Notes Here](https://github.com/Sukanya807/Advanced_Excel_for_Analysts/blob/main/Excel_Formulas_%26_Functions.pdf)
 
 
 
