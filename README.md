@@ -83,7 +83,7 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## I. Formula Formatting
 
-![](resorces/formula_formatting.png)
+![](resources/formula_formatting.png)
 
 ![](resources/formula_formatting_answer.png)
 
