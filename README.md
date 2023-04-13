@@ -11,7 +11,7 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## A. Formula 101
 
-![](resources/course_outline.png)
+![](resources/formula_formatting_answer.png)
 
 1. =IFERROR(C2/B2, "-")
 2. =IFERROR(D2/$B2, "-")
