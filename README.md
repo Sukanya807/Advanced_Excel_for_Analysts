@@ -5,9 +5,16 @@
 
 The purpose of this repository is to practice Advanced funcations and formulas on MS Excel.
 
+## Source
+
+Microsoft Excel - Advanced Excel Formulas & Functions by Maven Analytics (UDEMY)
+
 ## Course Outline
 
 ![](resources/course_outline.png)
+
+## Excel Homework Sheet
+[Click Here for Excel File](https://github.com/Sukanya807/Advanced_Excel_for_Analysts/blob/main/Excel_Homework_Exercises.xlsx)
 
 ## A. Formula 101
 
