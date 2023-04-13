@@ -7,18 +7,18 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## Course Outline
 
-![](resources/)
+![](resources/course_outline.png)
 
 ## A. Formula 101
 
-![](resources/)
+![](resources/course_outline.png)
 
 1. =IFERROR(C2/B2, "-")
 2. =IFERROR(D2/$B2, "-")
 
 ## B. Logical Operators
 
-![](resources/)
+![](resources/logical_operators_instructions.png)
 
 1. =IF(C2>= 60, "Pass","Fail")
 2. =IF(C2>= 90, "A", IF(C2 >= 80, "B", IF(C2>= 70, "C", IF(C2>=60, "D", "F"))))
@@ -27,7 +27,7 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## C. Stats Functions
 
-![](resources/)
+![](resources/stats_functions_instructions.png)
 
 1. =SUMIF(A:A, $H$2, D:D)
 2. =SUMIFS(D:D, $A:$A, $H$2, $C:$C, $G8)  ,  =SUMIFS(E:E, $A:$A, $H$2, $C:$C, $G8)
@@ -35,20 +35,20 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## D. Lookup Functions
 
-![](resources/)
+![](resources/lookup_functions.png)
 
 1. =VLOOKUP(B2, 'State Abbreviations'!A:B, 2, 0)
 2. =IFERROR(VLOOKUP(A2, 'State Income (2001-2004)'!A:D, 4, 0), "NO INCOME DATA")
 
 ## E. Index & Match Functions
 
-![](resources/)
+![](resources/index_match.png)
 
 1. =INDEX($A$1:$D$18, MATCH($G$2, A:A,0), MATCH($G$3,$A$1:$D$1, 0))
 
 ## F. OFFSET & COUNTA Functions
 
-![](resouces/)
+![](resouces/offset_counta.png)
 
 1. =COUNTA(A:A)-1
 2. =OFFSET(A1, COUNTA(A:A)-1, 0,1,1)
@@ -58,7 +58,7 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## G. Text Functions
 
-![](resources/)
+![](resources/text_funcs.png)
 
 1. =LEFT(A2,6)
 2. =LEFT(A2, SEARCH("-", A2)-1)
@@ -70,7 +70,7 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 
 ## H. Date & Time Functions
 
-![](resouces/)
+![](resouces/time_date_func.png)
 
 1. =TODAY(),   =NOW()
 2. =YEAR(C4), =MONTH(C4), =DAY(C4), =HOUR(C4), =MINUTE(C4),  =SECOND(C4)
@@ -80,6 +80,12 @@ The purpose of this repository is to practice Advanced funcations and formulas o
 6. =EOMONTH(C3,0)
 7. =EOMONTH(C3,-1)+1
 8. =EOMONTH(C3, MONTH(C3)* -1)+1
+
+## I. Formula Formatting
+
+![](resorces/formula_formatting.png)
+
+![](resources/formula_formatting_answer.png)
 
 
 
